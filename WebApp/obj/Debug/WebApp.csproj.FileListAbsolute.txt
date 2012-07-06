@@ -1,0 +1,7 @@
+E:\Projects\MiniMvc\WebApp\bin\WebApp.dll
+E:\Projects\MiniMvc\WebApp\bin\WebApp.pdb
+E:\Projects\MiniMvc\WebApp\bin\Artech.MiniMvc.dll
+E:\Projects\MiniMvc\WebApp\bin\Artech.MiniMvc.pdb
+E:\Projects\MiniMvc\WebApp\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\MiniMvc\WebApp\obj\Debug\WebApp.dll
+E:\Projects\MiniMvc\WebApp\obj\Debug\WebApp.pdb

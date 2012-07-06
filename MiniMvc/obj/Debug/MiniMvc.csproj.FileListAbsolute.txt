@@ -1,0 +1,5 @@
+E:\Projects\MiniMvc\MiniMvc\bin\Debug\Artech.MiniMvc.dll
+E:\Projects\MiniMvc\MiniMvc\bin\Debug\Artech.MiniMvc.pdb
+E:\Projects\MiniMvc\MiniMvc\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\MiniMvc\MiniMvc\obj\Debug\Artech.MiniMvc.dll
+E:\Projects\MiniMvc\MiniMvc\obj\Debug\Artech.MiniMvc.pdb
